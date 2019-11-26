@@ -20,5 +20,11 @@ iteration --> ciklus
 selection --> elágazás
 
 
+1. Adatok és függvények
+2.  Beolvasás
+    Validáció
+    Számítás
+3.  Küldés
+
 
 
