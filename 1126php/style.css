@@ -1,0 +1,12 @@
+caption{
+    background-color: aqua;
+    padding: 5px;
+}
+table{
+    width: 30%;
+    margin: auto
+}
+td{
+    border-bottom: 1px solid #aaa;
+    text-align: center;
+}
